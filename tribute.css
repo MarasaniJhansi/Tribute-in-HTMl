@@ -1,0 +1,46 @@
+.container {
+    background-color: lightcyan;
+    max-width: 800px;
+    width: 100%;
+    display:grid;
+    margin:0%;
+}
+.title {
+    background-color: linen;
+    font-style: serif;
+    color: brown;
+    text-align: center;
+
+}
+.mid {
+   display: block;
+    align-items:center;
+    background-color: linen;
+    color: black;
+   justify-content: center;
+   font-style: italic;
+
+
+}
+.imgg {
+    align-items:center;
+    max-width: 50%;
+    max-height:50%;
+    
+}
+.text {
+    /*padding-left: 20px;
+    font-size: 20px;*/
+    align-items: normal;
+}
+.fin {
+    background-color: linen;
+    color: black;
+    text-align:justify;
+
+}
+p1 {
+    text-align: center;
+    color: antiquewhite;
+    font-style:oblique;
+}
